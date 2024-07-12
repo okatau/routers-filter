@@ -13,6 +13,7 @@ import {
     CURVE_UINT256
 } from './constants';
 import { network } from 'hardhat';
+import { getUniquePoolAddresses } from './utils';
 
 // Эта функция создает список из первых подходящих роутеров для каждой фабрики. После добавления роутера для фабрики,
 // все остальный роутеры будут проигрнорированы.
@@ -89,17 +90,18 @@ async function getClearData(data: CSVData[], provider: ethers.AbstractProvider):
 
 // Вызываем функцию чтения данных из CSV файла
 readCSVExt(inputFilePath)
-    .then(async (data: CSVDataExt[]) => {
+    .then(async (data: CSVData[]) => {
         console.log('Testovaya versiya');
         console.log(inputFilePath);
         console.log(outputFilePath);
         console.log(outputFilePathUnique);
-        console.log(network.config);
         const provider = ethers.getDefaultProvider(network.config.url);
         // Фильтруем данные по указанной сети
         const filteredDataByCount = filterAndSortByCount(data, network.name);
 
         const [clearData, uniquePools] = await getClearData(filteredDataByCount, provider);
+        // const filteredData = filterAndSortByCount(data, network.name);
+        // const uniquePools = getUniquePoolAddresses(filteredData);
         writeCSVUniquePools(uniquePools, outputFilePathUnique);
         writeCSV(clearData, outputFilePath);
         convertToJSON(clearData, outputFilePathJson)

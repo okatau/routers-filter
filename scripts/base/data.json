@@ -1,0 +1,317 @@
+{
+  "0x33128a8fC17869897dcE68Ed026d694621f6FDfD": {
+    "address": "0x2626664c2603336E57B271c5C0b26F421741e481",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "2014842",
+    "network": "base"
+  },
+  "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6": {
+    "address": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "1866926",
+    "network": "base"
+  },
+  "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB": {
+    "address": "0x327Df1E6de05895d2ab08513aaDD9313Fe505d86",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "268333",
+    "network": "base"
+  },
+  "0x3E84D913803b02A4a7f027165E8cA42C14C0FdE7": {
+    "address": "0x8c1A3cF8f83074169FE5D7aD50B978e1cD6b37c7",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "98303",
+    "network": "base"
+  },
+  "0x71524B4f93c58fcbF659783284E38825f0622859": {
+    "address": "0x6BDED42c6DA8FBf0d2bA55B2fa120C5e0c8D7891",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "93963",
+    "network": "base"
+  },
+  "0x04C9f118d21e8B767D2e50C946f0cC9F6C367300": {
+    "address": "0xaaa3b1F1bd7BCc97fD1917c18ADE665C5D31F066",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "75074",
+    "network": "base"
+  },
+  "0x539db2B4FE8016DB2594d7CfbeAb4d2B730b723E": {
+    "address": "0xD55a4d54f39baF26da2F3EE7bE9a6388c15F9831",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "55897",
+    "network": "base"
+  },
+  "0x0Fd83557b2be93617c9C1C1B6fd549401C74558C": {
+    "address": "0xB20C411FC84FBB27e78608C24d0056D974ea9411",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "39815",
+    "network": "base"
+  },
+  "0x3D237AC6D2f425D2E890Cc99198818cc1FA48870": {
+    "address": "0x6F887c0Bee01FAfacA39E46cA14cc1D48e28090F",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "20906",
+    "network": "base"
+  },
+  "0xd6681e74eEA20d196c15038C580f721EF2aB6320": {
+    "address": "0xd6681e74eEA20d196c15038C580f721EF2aB6320",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "19984",
+    "network": "base"
+  },
+  "0x1B8128c3A1B7D20053D10763ff02466ca7FF99FC": {
+    "address": "0x4cf76043B3f97ba06917cBd90F9e3A2AAC1B306e",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "12619",
+    "network": "base"
+  },
+  "0xc35DADB65012eC5796536bD9864eD8773aBc74C4": {
+    "address": "0xFB7eF66a7e61224DD6FcD0D7d9C3be5C8B049b9f",
+    "routerType": "UNIV3_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "10644",
+    "network": "base"
+  },
+  "0x57592D44eb60011500961EF177BFf8D8691D5a8B": {
+    "address": "0x0573B0ce977bBa12E31ad7A3CCC02d0dB004D57a",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "8725",
+    "network": "base"
+  },
+  "0x591f122D1df761E616c13d265006fcbf4c6d6551": {
+    "address": "0x6F887c0Bee01FAfacA39E46cA14cc1D48e28090F",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "7830",
+    "network": "base"
+  },
+  "0x4bd16d59A5E1E0DB903F724aa9d721a31d7D720D": {
+    "address": "0x8734B3264Dbd22F899BCeF4E92D442d538aBefF0",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "2658",
+    "network": "base"
+  },
+  "0x4858C605862A91A34d83C19a9704f837f64fa405": {
+    "address": "0xf4038D237C553Bf246f7d1A377830601D72f2AB8",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "1423",
+    "network": "base"
+  },
+  "0xA6bd54F6dED7F0D1E2c7bDC87399eFE88926E9bA": {
+    "address": "0xA6bd54F6dED7F0D1E2c7bDC87399eFE88926E9bA",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "1185",
+    "network": "base"
+  },
+  "0xdC323d16C451819890805737997F4Ede96b95e3e": {
+    "address": "0x875f7D1A45C5f9D8deeb19bEe68f72fe4187e490",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "1137",
+    "network": "base"
+  },
+  "0xe396465A85deDB00FA8774162B106833dE51Ea41": {
+    "address": "0x4617695387bE48c3202a0A9165549c790C4A08Af",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "1102",
+    "network": "base"
+  },
+  "0x009D6dD200000000Fb008500bC40001c27B8F379": {
+    "address": "0x009D6dD200000000Fb008500bC40001c27B8F379",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "984",
+    "network": "base"
+  },
+  "0xD13aAF098d829aA25Eb69cf329a60CeF74f2d3Bf": {
+    "address": "0xbcCc3867e25Bf0aB0Be146aFb8a1bAE64CB8BcC2",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "803",
+    "network": "base"
+  },
+  "0x4bfa469Dd8dB215A21C5619f61b0B519b2e231Ad": {
+    "address": "0x4bfa469Dd8dB215A21C5619f61b0B519b2e231Ad",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "723",
+    "network": "base"
+  },
+  "0x728e55E9168C56e7e12bfe760a5Ac4c4f063aE7c": {
+    "address": "0x728e55E9168C56e7e12bfe760a5Ac4c4f063aE7c",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "702",
+    "network": "base"
+  },
+  "0x77be21b83CC0592403ed63B2Cc012E57155FA527": {
+    "address": "0x1cc4ABF74f0dd4cD66c8DF1d4C32d4b2C11B325d",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "628",
+    "network": "base"
+  },
+  "0xaD376065D4fA9aBB6DDA0dED0EAdd911FE6E0f92": {
+    "address": "0x10CC46aF6964fBa2B7266ddf2cD8A8585b71a210",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "607",
+    "network": "base"
+  },
+  "0x9E6d21E759A7A288b80eef94E4737D313D31c13f": {
+    "address": "0xD810A437e334B9C3660C18b38fB3C01000B91DD3",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "551",
+    "network": "base"
+  },
+  "0x2d5dd5fa7B8a1BFBDbB0916B42280208Ee6DE51e": {
+    "address": "0x3485F8E155973cC247CBEa9E77C0dBBB4BBb79E7",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "533",
+    "network": "base"
+  },
+  "0x259b3217A01878ea9d64b45eE48231e660863ee7": {
+    "address": "0xAbaE3944D4CD4a983A7B24D0b64f9514ab75390A",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "507",
+    "network": "base"
+  },
+  "0x94fec8fb6A741a326a32cb84cCc6018117FFe131": {
+    "address": "0x94fec8fb6A741a326a32cb84cCc6018117FFe131",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "422",
+    "network": "base"
+  },
+  "0x2cFD49CB40f4879296646E683651c5d21B839C4E": {
+    "address": "0x2cFD49CB40f4879296646E683651c5d21B839C4E",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "420",
+    "network": "base"
+  },
+  "0x51EfE48B7AD25cBC4018F92c65EF77E1293C0a33": {
+    "address": "0x34cdF9d506a302094c6315c99ABB355321d49052",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "409",
+    "network": "base"
+  },
+  "0xE994a9A5d460ddAF5A6fEDffd89Ece43291c8Ad5": {
+    "address": "0xE994a9A5d460ddAF5A6fEDffd89Ece43291c8Ad5",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "395",
+    "network": "base"
+  },
+  "0x7Fbf82d23435763FfA45145Dd77BfC4e993Bebb3": {
+    "address": "0x7Fbf82d23435763FfA45145Dd77BfC4e993Bebb3",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "376",
+    "network": "base"
+  },
+  "0x11797ca7109a9927D3A0e0D1AA395c89A5bC3d90": {
+    "address": "0x11797ca7109a9927D3A0e0D1AA395c89A5bC3d90",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "342",
+    "network": "base"
+  },
+  "0xf0384882db4c7BE90fcCE26d2B9CF0cDa80bae22": {
+    "address": "0xc808808E7DA7D902289c24232b5aC3349C3a45bB",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "318",
+    "network": "base"
+  },
+  "0x0dcCfdF227c3f7b1E5d34B2488A7B0ca01d400a4": {
+    "address": "0x0A64D8858061E1C5e2BC63f2C267Cb87b47DeA57",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "302",
+    "network": "base"
+  },
+  "0x8e1815BF32d61d903d0358338743acDc95Fe4663": {
+    "address": "0x8e1815BF32d61d903d0358338743acDc95Fe4663",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "246",
+    "network": "base"
+  },
+  "0xE8839bF8175812691c6578C0Fc80E721bC3e00fB": {
+    "address": "0xF407009ea759728E4349cca85292739347Df9196",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "183",
+    "network": "base"
+  },
+  "0x75a92DfB38C3506dcE3Bbb5EB32A10852f9ba64a": {
+    "address": "0x4322f635AC515bb3b6EdA73a33e3955443D710f1",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "180",
+    "network": "base"
+  },
+  "0x8937837a0Ee98984EB8199B3384da7a136168154": {
+    "address": "0xBa88b20dD982cF50701cf29755bBC3dfa353821f",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "177",
+    "network": "base"
+  },
+  "0x91160386A0Dc169d65F113E4CFDf7af18Dbc09F9": {
+    "address": "0x91160386A0Dc169d65F113E4CFDf7af18Dbc09F9",
+    "routerType": "CURVE_INT128",
+    "factoryType": "NONE",
+    "count": "159",
+    "network": "base"
+  },
+  "0xdC094859C93c816b14F04cfDDACa6a35c59d475e": {
+    "address": "0xdC094859C93c816b14F04cfDDACa6a35c59d475e",
+    "routerType": "CURVE_UINT256",
+    "factoryType": "NONE",
+    "count": "157",
+    "network": "base"
+  },
+  "0x7B55fa23B303A15eE1261514fDFeafE330e59ABB": {
+    "address": "0xf05AEBfbF4b6f764E208660Bb156C06426A878C8",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "153",
+    "network": "base"
+  },
+  "0xBAa207A1673dea8b6890817e5e68e06677471CFB": {
+    "address": "0x411f222a24EB69654341303D09c0b0bD87aCf7Fa",
+    "routerType": "UNIV2_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "133",
+    "network": "base"
+  },
+  "0xFAa5F5F4a3c6ed4446F7B6014322C954d218690C": {
+    "address": "0x41EafAA49E13A5bC7cB633f69FEb650f22413D8D",
+    "routerType": "UNIV2_DEADLINE_ROUTER_TYPE",
+    "factoryType": "NONE",
+    "count": "131",
+    "network": "base"
+  }
+}

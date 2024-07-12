@@ -17,6 +17,10 @@ const config: HardhatUserConfig = {
     matic: {
         url: process.env.POLYGON_RPC ?? "https://polygon-rpc.com",
         chainId: 137,
+    },
+    base: {
+      url: process.env.BASE_RPC ?? "https://mainnet.base.org",
+      chainId: 8453
     }
     // matic: {
     //     url: `https://rpc.ankr.com/polygon/${process.env.ANKR_POLYGON_API_KEY}` ?? "https://polygon-rpc.com",

@@ -10,7 +10,7 @@ export const uniV3type = 'UNISWAP_V3_TYPE';
 export const curveType = 'CURVE_TYPE';
 export const none = 'NONE';
 
-export const network = 'matic'; // Укажите желаемую сеть
+export const network = 'base'; // Укажите желаемую сеть
 
 // Путь к исходной таблице.
 export const inputFilePath = 'scripts/routerInfo_short.csv'; // Путь к вашему CSV файлу
